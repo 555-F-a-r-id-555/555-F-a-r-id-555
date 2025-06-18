@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">and Wellcome ! </h1>
+<h2 align="center">and Welcome ! </h2>
 
 
 📄 My_Web_Page:  
